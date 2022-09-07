@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">A new and passionate Web Developer</h3>
 
-- 👯 I’ve collaborated on [airpnp](https://github.com/egehidiroglu/airpnp)
+- 👯 I’ve collaborated on [airpnp](https://github.com/egehidiroglu/airpnp) and [minder](https://github.com/egehidiroglu/minder)
 
 - 🌱 I’m currently learning **the good practices in coding**
 
