@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **the good practices in coding**
 
-- 📫 You can reach me on **mariou.hugo@gmail.com** or on [linkedIn](https://www.linkedin.com/in/hugo-mariou-devweb/)
+- 📫 You can reach me on **mariou.hugo@gmail.com**
 
-- 👨‍💻 All of my projects are available [here](https://troopl.com/hugo-mariou)
+- 👨‍💻 All of my projects are available **[here](https://troopl.com/hugo-mariou)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
