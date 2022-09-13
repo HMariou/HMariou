@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 
+<h2 align="center"></h2>
+
+<img src="(https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)" alt="Developer-pic" width="500" height="600">
+
 <h3 align="center">A new and passionate Web Developer</h3>
 
 - 👯 I’ve collaborated on [airpnp](https://github.com/egehidiroglu/airpnp) and [minder](https://github.com/egehidiroglu/minder)
