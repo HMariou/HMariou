@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
+<h1 align="center">Hi! I'm Hugo</h1>
 
 <h2 align="center"></h2>
 
 <h3 align="center">A new and passionate Web Developer</h3>
 
-- 👯 I’ve collaborated on [airpnp](https://github.com/egehidiroglu/airpnp) and [minder](https://github.com/egehidiroglu/minder)
+-  I’ve collaborated on [airpnp](https://github.com/egehidiroglu/airpnp) and [minder](https://github.com/egehidiroglu/minder)
 
-- 🌱 I’m currently learning **the good practices in coding**
+-  I’m currently learning **Javascript ES6**
 
-- 📫 You can reach me on **mariou.hugo@gmail.com**
+-  You can reach me on **mariou.hugo@gmail.com**
 
-- 👨‍💻 All of my projects are available **[here](https://troopl.com/hugo-mariou)**
+-  All of my projects are available **[here](https://troopl.com/hugo-mariou)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
