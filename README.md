@@ -10,7 +10,7 @@
 
 -  You can reach me on **mariou.hugo@gmail.com**
 
--  All of my projects are available **[here](https://troopl.com/hugo-mariou)**
+-  My projects are available **[here](https://troopl.com/hugo-mariou)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
