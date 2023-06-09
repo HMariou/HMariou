@@ -6,7 +6,7 @@
 
 -  I’ve collaborated on [airpnp](https://github.com/egehidiroglu/airpnp) and [minder](https://github.com/egehidiroglu/minder)
 
--  I’m currently learning **Javascript ES6**
+-  I’m currently working with **Ruby on Rails**
 
 -  You can reach me on **mariou.hugo@gmail.com**
 
